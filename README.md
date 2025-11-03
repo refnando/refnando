@@ -47,7 +47,7 @@ Driven by precision, creativity, and continuous improvement ⚙️
 - 🎭 [**Playwright + OpenAI Integration**](https://github.com/refnando/playwright-typescript-demo)  
   Intelligent test analysis with Playwright and AI-based insights for dynamic automation.
 
-- 🧮 [**Fraction Calculator (Java)**](https://github.com/refnando/fraction-calculator)  
+- 🧮 [**Fraction Calculator (Java)**](https://github.com/refnando/FractionCalculator)  
   CLI Java tool performing arithmetic operations with fractions and mixed numbers.
 
 - 🐍 [**Python101 – File Organizer**](https://github.com/refnando/python101)  
