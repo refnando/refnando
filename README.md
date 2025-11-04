@@ -78,3 +78,10 @@ Driven by precision, creativity, and continuous improvement ⚙️
 <p align="center">
   <strong>Made with ❤️ & precision in Mexico</strong> 🇲🇽
 </p>
+### 🕹️ 16-bit Bug Slayer Mode
+
+> When the test fails... the debugging hero awakens ⚔️
+
+<p align="center">
+  <img src="https://github.com/refnando/refnando/blob/master/assets/sdet-16bit-fc.png?raw=true" width="500" />
+</p>
