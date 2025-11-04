@@ -78,6 +78,8 @@ Driven by precision, creativity, and continuous improvement ⚙️
 <p align="center">
   <strong>Made with ❤️ & precision in Mexico</strong> 🇲🇽
 </p>
+
+
 ### 🕹️ 16-bit Bug Slayer Mode
 
 > When the test fails... the debugging hero awakens ⚔️
