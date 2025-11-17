@@ -41,14 +41,17 @@ Driven by precision, creativity, and continuous improvement ⚙️
 
 ### 🧩 Featured Projects  
 
+- 🎭 [**Playwright + OpenAI Integration**](https://github.com/refnando/playwright-typescript-demo)  
+  Intelligent test analysis with Playwright and AI-based insights for dynamic automation.
+
+- 🤖 [**Selenium POC – Java UI Automation Framework**](https://github.com/refnando/selenium-poc)
+  A clean and modular UI automation framework built with Java 17, Selenium WebDriver 4, TestNG, Maven, Allure Reports, and WebDriverManager, using a full Page Object Model structure.
+  
 - 🧪 [**RestAssured POC – Simpsons API Testing**](https://github.com/refnando/restassured-poc)  
   A Java-based API testing framework using RestAssured and JUnit5 against *The Simpsons API*.
 
 - 🔧 [**Pactum + Jest API Framework**](https://github.com/refnando/pactum-demo)  
   Modular TypeScript framework for API automation with reusable helpers and report generation.
-
-- 🎭 [**Playwright + OpenAI Integration**](https://github.com/refnando/playwright-typescript-demo)  
-  Intelligent test analysis with Playwright and AI-based insights for dynamic automation.
 
 - 🧮 [**Fraction Calculator (Java)**](https://github.com/refnando/FractionCalculator)  
   CLI Java tool performing arithmetic operations with fractions and mixed numbers.
