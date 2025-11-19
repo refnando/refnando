@@ -40,6 +40,8 @@ Driven by precision, creativity, and continuous improvement ⚙️
 ---
 
 ### 🧩 Featured Projects  
+- 📱 [**Appium MyDemoApp – Mobile Automation Framework**](https://github.com/refnando/appium-mydemoapp)
+Java 17 + Appium + TestNG + Allure. Clean POM structure, driver factory, waits, env config, and Allure trend/history.
 
 - 🎭 [**Playwright + OpenAI Integration**](https://github.com/refnando/playwright-typescript-demo)  
   Intelligent test analysis with Playwright and AI-based insights for dynamic automation.
